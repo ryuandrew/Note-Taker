@@ -22,6 +22,7 @@ app.use(routes)
 
 // npm uuid
 
+// console logs in node
 app.listen(PORT, () => 
     console.log(`App listening at http://localhost:${PORT}`)
 )
